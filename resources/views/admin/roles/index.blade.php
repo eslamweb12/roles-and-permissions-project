@@ -7,5 +7,5 @@
     @livewire('admin.roles.roles-data')
 
     @livewire('admin.roles.role-create')
-{{--    @livewire('admin.post.post-update');--}}
+    @livewire('admin.roles.role-update');
 @endsection
