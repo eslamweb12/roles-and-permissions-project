@@ -20,7 +20,7 @@
             </a>
         </li>
         <li>
-            <a href="{{route('admin.roles.index')}}" class="nav-link link-dark">
+            <a href="{{route('admin.roles.index')}}" class="nav-link @yield('roles')">
                 Assign Role
             </a>
         </li>
